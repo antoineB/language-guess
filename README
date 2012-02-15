@@ -4,6 +4,9 @@ Then (if necessary, some language are written in a specific alphabet) it match a
 And find the most language name returned.
 This could be irrelevant if you use a few number of words.
 
+** setting up the database
+see Mysql in DB.scala
+
 ** adding dictionary
 see the function  DB.init
 see the format of file in dict
