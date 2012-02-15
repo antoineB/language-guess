@@ -1,0 +1,1 @@
+aspell -l fr dump master | aspell -l fr expand | fr ' ' '\n' > fr_dict
