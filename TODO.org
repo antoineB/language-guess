@@ -1,0 +1,10 @@
+* TODO make the big "else if" of unicode faster
+** use the solution of binary tree
+   this will made the average test per functions to 10
+
+** use first function example:
+   funtion *firstGreek* test greek blocks first
+   function *firstDevangari* test devanagari blocks first
+   etc...
+* TODO support all alphabet in unicode
+* TODO take care of transliteration (arabic <-> cyrillic) (lambda alphabet -> latin) 

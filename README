@@ -1,0 +1,14 @@
+This is some scala code to help deducing a language from text.
+It is simple, it (with unicode standard) find the alphabet in which the text is write.
+Then (if necessary, some language are written in a specific alphabet) it match a number of words to your database.
+And find the most language name returned.
+This could be irrelevant if you use a few number of words.
+
+** adding dictionary
+see the function  DB.init
+see the format of file in dict
+
+** the number of words match
+see language.maxWordsToTest
+see language.textSizeLimit
+see language.phraseSizeLimit
